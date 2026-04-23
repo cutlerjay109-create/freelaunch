@@ -1,0 +1,18 @@
+{
+  "project_name": "FreeLaunch",
+  "track": "DeFi",
+  "chain_id": "freelance-1",
+  "bridge_id": "1887",
+  "contract_address": "0x7Ee7a3088C2E5295f3390538377ad0fCc3B126Be",
+  "frontend_url": "",
+  "description": "Trustless freelance escrow platform on Initia. Clients lock funds on-chain, freelancers complete work, payment releases instantly with no middleman cut.",
+  "team": {
+    "solo": true
+  },
+  "initia_features": [
+    "InterwovenKit wallet connection",
+    "Session UX via auto-signing",
+    "EVM smart contract on Initia rollup"
+  ],
+  "tx_hash": "0x36163672da9428d0167a708e49ea02eb016a7614cc564e69af193fac709a5998"
+}
