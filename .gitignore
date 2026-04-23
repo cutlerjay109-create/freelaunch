@@ -1,7 +1,6 @@
 node_modules/
 .env.local
-frontend/.next/
-frontend/node_modules/
+.next/
+frontend/
 contracts/cache/
 contracts/out/
-contracts/lib/
