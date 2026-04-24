@@ -420,41 +420,6 @@ export default function Home() {
         )}
       </main>
 
-      <footer className="border-t border-gray-200 bg-white mt-16">
-        <div className="max-w-5xl mx-auto px-6 py-10">
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
-            <div className="md:col-span-2">
-              <h3 className="text-lg font-bold text-gray-900 mb-2">FreeLaunch</h3>
-              <p className="text-sm text-gray-500 mb-4">Trustless freelance payments on Initia. No middleman. No cuts. Just work and get paid instantly.</p>
-              <div className="flex gap-4">
-                <a href="https://x.com/initia" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600 text-sm">Twitter</a>
-                <a href="https://discord.gg/initia" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600 text-sm">Discord</a>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600 text-sm">GitHub</a>
-              </div>
-            </div>
-            <div>
-              <h4 className="text-sm font-semibold text-gray-900 mb-3">Platform</h4>
-              <ul className="space-y-2">
-                <li><a href="#" className="text-sm text-gray-500 hover:text-gray-700">Browse Jobs</a></li>
-                <li><a href="#" className="text-sm text-gray-500 hover:text-gray-700">Post a Job</a></li>
-                <li><a href="#" className="text-sm text-gray-500 hover:text-gray-700">My Dashboard</a></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="text-sm font-semibold text-gray-900 mb-3">Legal</h4>
-              <ul className="space-y-2">
-                <li><a href="#" className="text-sm text-gray-500 hover:text-gray-700">Terms of Service</a></li>
-                <li><a href="#" className="text-sm text-gray-500 hover:text-gray-700">Privacy Policy</a></li>
-                <li><a href="#" className="text-sm text-gray-500 hover:text-gray-700">Smart Contract</a></li>
-              </ul>
-            </div>
-          </div>
-          <div className="border-t border-gray-100 pt-6 flex flex-col md:flex-row justify-between items-center gap-3">
-            <p className="text-xs text-gray-400">© 2026 FreeLaunch. Built on Initia.</p>
-            <p className="text-xs text-gray-400">Contract: <span className="font-mono">0x7Ee7a3088C2E5295f3390538377ad0fCc3B126Be</span></p>
-          </div>
-        </div>
-      </footer>
     </div>
   );
 }
